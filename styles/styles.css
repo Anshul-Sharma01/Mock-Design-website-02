@@ -1,0 +1,88 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.maind{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:70px;
+}
+
+li{
+    list-style: none;
+    font-weight:800;
+    font-size:18px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+header{
+    display:flex;
+    justify-content:space-between;
+}
+
+ul{
+    display:flex;
+    gap:20px;
+}
+
+.headbttnd{
+    padding:40px;
+}
+
+.headbttn{
+    padding:10px;
+    background-color:#5955B3;
+    color:white;
+    border-radius:8px;
+}
+
+
+main{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+
+
+
+.left-main-content{
+    margin:0 auto;
+    margin-top:200px;
+    text-align:justify;
+    
+}
+
+
+span{
+    color: #5955B3;
+}
+
+h1{
+    font-size:80px;
+    text-align:justify;
+    color:#3C2E60;
+}
+
+p{
+    padding:20px;
+    text-align:justify;
+    font-size:18px;
+}
+
+
+.mainbttn{
+    padding:12px;
+    background-color:#5955B3;
+    color:white;
+    border-radius:8px;
+    margin:30px;
+}
